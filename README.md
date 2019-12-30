@@ -1,3 +1,3 @@
 # ClampController
-Arduino Project (C)
+Arduino Project (C++) <br>
 Clamp Hardware Controller 
